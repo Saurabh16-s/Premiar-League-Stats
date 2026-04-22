@@ -1,2 +1,2 @@
 # Premiar-League-Stats
-backend only
+Only backend using springboot and postgres
